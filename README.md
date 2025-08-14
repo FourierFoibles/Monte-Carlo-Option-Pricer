@@ -1,6 +1,6 @@
 # Monte Carlo Option Pricer
 
-Price financial options using Monte Carlo simulation in Python.
+Price financial options using Monte Carlo simulation in Python using Streamlit for visualisation.
 
 ## Setup
 Install streamlit onto your computer and download montecarlo.py
