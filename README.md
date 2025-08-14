@@ -2,6 +2,9 @@
 
 Price financial options using Monte Carlo simulation in Python using Streamlit for visualisation.
 
+**Live App:** [Run on Streamlit](https://monte-carlo-option-pricer-gd472fmrjxsqgx5jbbywmw.streamlit.app/)
+
+
 ## Setup
 Install streamlit onto your computer and download montecarlo.py
 
